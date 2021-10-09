@@ -1,0 +1,6 @@
+{
+        "type": "BACKTRACKING",
+        "rate": 2,
+        "epsilon": 0.015,
+        "HJiter0": 30
+}
